@@ -9,9 +9,10 @@
 ### i'm mau, a python dev and a creative dev wannabe.
 
 ### currently, i'm
-- 🔭 working on a cyberpsychology project and a vtubing project
-- 🌱 learning how to build a personal ai agent, davinci resolve and matrix
-- ⚡ enjoying climbing even if i'm a small queen 👑
+- 💼 earning money as a automation and tool dev
+- 🔭 working on a cyberpsychology project and my homelab project
+- 🌱 learning how to play chess
+- ⚡ enjoying climbing inspite of being a small queen 👑
 
 ### i'm proud of
 - 🖥️ self-hosting my own services (AFFiNE, Element, Ollama...)
